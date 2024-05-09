@@ -1,5 +1,11 @@
 const cardElements = [
   {
+    imageUrl: './shop.png',
+    cardTitle: 'Shopping App',
+    badgesCard: ['React', 'Redux', '.env', 'Render', 'Bootstrap','EC6'],
+    targetCard: 'shop',
+  },
+  {
     imageUrl: './quote.png',
     cardTitle: 'Quotes App',
     badgesCard: ['Rails 7', 'OmniAuth', 'Redis', 'SMTP', 'RSpec', 'Device', 'Render'],

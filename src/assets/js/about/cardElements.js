@@ -12,7 +12,7 @@ const cardElements = [
       </svg>
     `,
     cardTitle: 'Languages',
-    badgesCard: ['Java', 'JavaScrip', 'Ruby', 'R'],
+    badgesCard: ['Java', 'JavaScrip', 'Ruby', 'R', 'Go', 'GraphQL'],
   },
   {
     imageUrl: `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-topology-full-hierarchy p-1 bg-white rounded-pill text-center" width="55" height="55" viewBox="0 0 24 24" stroke-width="1.5" stroke="#00b341" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -32,7 +32,7 @@ const cardElements = [
     <path d="M10.5 13.5l-3 3" />
   </svg>`,
     cardTitle: 'Frameworks',
-    badgesCard: ['Rails', 'React', 'RSpec', 'Bootstrap', 'Selenium', 'Jest'],
+    badgesCard: ['Rails','React', 'RSpec', 'Bootstrap', 'Selenium', 'Jest'],
   },
   {
     imageUrl: `<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-server-2 p-1 bg-white rounded-pill text-center" width="55" height="55" viewBox="0 0 24 24" stroke-width="1.5" stroke="#00b341" fill="none" stroke-linecap="round" stroke-linejoin="round">

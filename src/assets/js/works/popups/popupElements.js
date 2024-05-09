@@ -1,5 +1,15 @@
 // budget popup
 const popup = {
+  shop: {
+    targetPopup: 'shop',
+    title: 'Shopping App',
+    badgesPopup: ['React', 'Redux', '.env', 'Render', 'Bootstrap','EC6'],
+    webm: './shop.webm',
+    png: './shop.png',
+    live: 'https://master--stunning-creponne-ed1796.netlify.app/',
+    source: 'https://github.com/J2ZROMERO/Shop-Store',
+    description: 'This is a shopping app that allows you to add and remove items from a list. The app uses Redux to manage the state of the application.',
+  },
   quote: {
     targetPopup: 'quote',
     title: 'Quotes App',
