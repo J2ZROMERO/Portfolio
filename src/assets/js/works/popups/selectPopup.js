@@ -8,6 +8,9 @@ const selectPopup = () => {
       const target = button.getAttribute('data-bs-target');
       const targetUpdated = target.substring(1);
       switch (targetUpdated) {
+        case 'pdf':
+          active(targetUpdated);
+          break;
         case 'shop':
           active(targetUpdated);
           break;

@@ -1,5 +1,15 @@
 // budget popup
 const popup = {
+  pdf: {
+    targetPopup: 'pdf',
+    title: 'Google Scripts PDF Reader',
+    badgesPopup: ['Google-Scripts','Google sheets','Node', 'pdfjs-dist', 'Netlify'],
+    webm: './pdf.webm',
+    png: './pdf.png',
+    live: 'https://googlescripts--jade-cranachan-df4264.netlify.app/public/',
+    source: 'https://github.com/J2ZROMERO/Estadisticas',
+    description: 'This is a PDF reader that uses Google Scripts to save comments in a google sheets document.',
+  },
   shop: {
     targetPopup: 'shop',
     title: 'Shopping App',
